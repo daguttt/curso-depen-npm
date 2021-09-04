@@ -14,8 +14,15 @@
   "author": "dagutx <dagutmu667@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
   "preferGlobal": true,
-  "dependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagutx/curso-depen-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dagutx/curso-depen-npm/issues"
+  },
+  "homepage": "https://github.com/dagutx/curso-depen-npm#readme"
 }
